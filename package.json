@@ -1,0 +1,30 @@
+{
+  "name": "mcirmgard",
+  "version": "1.0.0",
+  "description": "Discord music bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FuJa0815/mcIrmgard.git"
+  },
+  "keywords": [
+    "discord",
+    "music",
+    "bot",
+    "irmgard"
+  ],
+  "author": "FuJa0815",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/FuJa0815/mcIrmgard/issues"
+  },
+  "homepage": "https://github.com/FuJa0815/mcIrmgard#readme",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "discord.js": "^13.1.0",
+    "dotenv": "^10.0.0"
+  }
+}
